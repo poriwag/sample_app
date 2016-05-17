@@ -54,5 +54,5 @@ class UserTest < ActiveSupport::TestCase
     assert_not @user.authenticated?('')
   end
   
-  
+
 end
